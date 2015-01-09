@@ -1,0 +1,1565 @@
+Call for 0 to 4
+Call for 0 to 3
+Call for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 24 and 20Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 48 and 44Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 75 and 45Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 72 and 68Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 96 and 92Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 120 and 116Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 148 and 144Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 258 and 252Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 414 and 360Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 294 and 288Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 220 and 216Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 244 and 240Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 640 and 330Call for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 272 and 268Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 444 and 438Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 693 and 639Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 480 and 474Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 344 and 340Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 368 and 364Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 396 and 392Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 420 and 416Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 540 and 510Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 444 and 440Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 468 and 464Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 492 and 488Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 520 and 516Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 544 and 540Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 695 and 665Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 568 and 564Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 592 and 588Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 616 and 612Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 4
+Call for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 648 and 644Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1008 and 1002Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1539 and 1485Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1044 and 1038Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 720 and 716Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 744 and 740Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 4
+Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1158 and 1152Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 1393 and 1386Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1616 and 1568Call for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 1435 and 1428Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1266 and 1260Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1302 and 1296Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2420 and 2079Call for 2 to 4
+Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1344 and 1338Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 1610 and 1603Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1864 and 1816Call for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 1652 and 1645Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1452 and 1446Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1488 and 1482Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1020 and 1016Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1566 and 1560Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2376 and 2322Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1602 and 1596Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1092 and 1088Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1116 and 1112Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1144 and 1140Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1752 and 1746Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2655 and 2601Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1788 and 1782Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1216 and 1212Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1240 and 1236Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3756 and 1884Call for 1 to 4
+Call for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1272 and 1268Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1944 and 1938Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2943 and 2889Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 1980 and 1974Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1344 and 1340Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1368 and 1364Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 4
+Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2094 and 2088Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 2485 and 2478Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2864 and 2816Call for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 2527 and 2520Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2202 and 2196Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2238 and 2232Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 4136 and 3795Call for 2 to 4
+Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2280 and 2274Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 2702 and 2695Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 3112 and 3064Call for 3 to 4
+Call for 3 to 3
+
+Last caseCall for 4 to 4
+
+Last case
+tie between 2744 and 2737Call for 4 to 4
+
+Last caseCall for 3 to 3
+
+Last caseCall for 3 to 3
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2388 and 2382Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2424 and 2418Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1644 and 1640Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2502 and 2496Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 3780 and 3726Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2538 and 2532Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1716 and 1712Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1740 and 1736Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1768 and 1764Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2688 and 2682Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 4059 and 4005Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 2724 and 2718Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1840 and 1836Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1864 and 1860Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 3
+Call for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 1896 and 1892Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1920 and 1916Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2415 and 2385Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 1944 and 1940Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 1968 and 1964Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 1992 and 1988Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2020 and 2016Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 3066 and 3060Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 4626 and 4572Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 3102 and 3096Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2092 and 2088Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2116 and 2112Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 5320 and 5010Call for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2144 and 2140Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 3252 and 3246Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 4905 and 4851Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 3288 and 3282Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2216 and 2212Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2240 and 2236Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2268 and 2264Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2292 and 2288Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2880 and 2850Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2316 and 2312Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2340 and 2336Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2364 and 2360Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2392 and 2388Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2416 and 2412Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3035 and 3005Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2440 and 2436Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2464 and 2460Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2488 and 2484Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 3
+Call for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2520 and 2516Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2544 and 2540Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3195 and 3165Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2568 and 2564Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2592 and 2588Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2616 and 2612Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2644 and 2640Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 4002 and 3996Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 6030 and 5976Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 4038 and 4032Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2716 and 2712Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2740 and 2736Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 6880 and 6570Call for 1 to 3
+Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2768 and 2764Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 4188 and 4182Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 6309 and 6255Call for 2 to 3
+Call for 2 to 2
+
+Last caseCall for 3 to 3
+
+Last case
+tie between 4224 and 4218Call for 3 to 3
+
+Last caseCall for 2 to 2
+
+Last caseCall for 2 to 2
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2840 and 2836Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2864 and 2860Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2892 and 2888Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2916 and 2912Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3660 and 3630Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 2940 and 2936Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2964 and 2960Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 2988 and 2984Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 2
+Call for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3016 and 3012Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 3040 and 3036Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3815 and 3785Call for 1 to 2
+Call for 1 to 1
+
+Last caseCall for 2 to 2
+
+Last case
+tie between 3064 and 3060Call for 2 to 2
+
+Last caseCall for 1 to 1
+
+Last caseCall for 1 to 1
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3088 and 3084Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 1
+Call for 0 to 0
+
+Last caseCall for 1 to 1
+
+Last case
+tie between 3112 and 3108Call for 1 to 1
+
+Last caseCall for 0 to 0
+
+Last caseCall for 0 to 0
+
+Last case
+Answer is 9372
+over

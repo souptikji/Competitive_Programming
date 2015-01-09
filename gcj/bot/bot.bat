@@ -1,0 +1,1 @@
+bot.exe <in.txt> out.txt

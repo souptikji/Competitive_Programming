@@ -1,0 +1,1 @@
+solution.exe <in1.txt> out.txt

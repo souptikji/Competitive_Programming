@@ -1,0 +1,1 @@
+kingdomrush.exe <in.txt> out.txt

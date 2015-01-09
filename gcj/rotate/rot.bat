@@ -1,0 +1,1 @@
+rot.exe <in.txt> out.txt

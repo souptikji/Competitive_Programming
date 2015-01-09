@@ -1,0 +1,1 @@
+topcoder3.exe<in.txt> out.txt

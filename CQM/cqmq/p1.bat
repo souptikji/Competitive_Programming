@@ -1,0 +1,1 @@
+p1.exe <input.txt> in1.txt

@@ -1,0 +1,1 @@
+ak.exe <in.txt> outkk.txt

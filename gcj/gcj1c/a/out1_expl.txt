@@ -1,0 +1,111 @@
+New case
+Case #1: No
+New case
+
+dual path from 1 to 8Case #2: Yes
+New case
+
+dual path from 5 to 22Case #3: Yes
+New case
+Case #4: No
+New case
+Case #5: No
+New case
+Case #6: No
+New case
+Case #7: No
+New case
+Case #8: No
+New case
+Case #9: No
+New case
+Case #10: No
+New case
+Case #11: No
+New case
+Case #12: No
+New case
+
+dual path from 0 to 17Case #13: Yes
+New case
+Case #14: No
+New case
+Case #15: No
+New case
+Case #16: No
+New case
+Case #17: No
+New case
+Case #18: No
+New case
+Case #19: No
+New case
+
+dual path from 1 to 28Case #20: Yes
+New case
+Case #21: No
+New case
+Case #22: No
+New case
+Case #23: No
+New case
+Case #24: No
+New case
+Case #25: No
+New case
+
+dual path from 6 to 43Case #26: Yes
+New case
+
+dual path from 23 to 18Case #27: Yes
+New case
+Case #28: No
+New case
+
+dual path from 13 to 3Case #29: Yes
+New case
+Case #30: No
+New case
+Case #31: No
+New case
+Case #32: No
+New case
+Case #33: No
+New case
+Case #34: No
+New case
+
+dual path from 8 to 40Case #35: Yes
+New case
+
+dual path from 23 to 9Case #36: Yes
+New case
+
+dual path from 17 to 36Case #37: Yes
+New case
+Case #38: No
+New case
+Case #39: No
+New case
+Case #40: No
+New case
+Case #41: No
+New case
+Case #42: No
+New case
+Case #43: No
+New case
+Case #44: No
+New case
+Case #45: No
+New case
+Case #46: No
+New case
+
+dual path from 19 to 16Case #47: Yes
+New case
+Case #48: No
+New case
+Case #49: No
+New case
+Case #50: No

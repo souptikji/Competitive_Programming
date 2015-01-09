@@ -1,0 +1,1 @@
+evild.exe <inevild.txt> outevild.txt

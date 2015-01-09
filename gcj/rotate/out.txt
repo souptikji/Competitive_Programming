@@ -1,0 +1,31 @@
+
+000000   Rows=10
+00000   Rows=200
+0000   Rows=3000
+000   Rows=4R000
+00   Rows=50BB00
+0   Rows=60BRB00
+   Rows=7
+Rows are 7 and maxcol is 4
+0RRBR00   Rows=1
+6 4
+00   Rows=20000
+00   Rows=30000
+0R   Rows=4000R
+0R   Rows=500BB
+0R   Rows=60RBR
+RB   Rows=7
+Rows are 7 and maxcol is 6
+0BBB
+4    Rows=14
+R000
+   Rows=2BR00
+BR   Rows=300
+BR00   Rows=4
+3 3
+B0   Rows=50
+RB0
+R   Rows=6B0ÿÿÿÿÿ   Rows=7
+Rows are 7 and maxcol is 6
+ÿÿÿÿÿÿÿ   Rows=1ÿÿÿÿÿÿÿ   Rows=2ÿÿÿÿÿÿÿ   Rows=3ÿÿÿÿÿÿÿ   Rows=4ÿÿÿÿÿÿÿ   Rows=5ÿÿÿÿÿÿÿ   Rows=6ÿÿÿÿÿÿÿ   Rows=7
+Rows are 7 and maxcol is 7

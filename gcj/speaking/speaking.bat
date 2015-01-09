@@ -1,0 +1,1 @@
+speaking.exe <in.txt> out.txt

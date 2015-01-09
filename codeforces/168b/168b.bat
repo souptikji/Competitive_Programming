@@ -1,0 +1,1 @@
+168b.exe <in.txt> out.txt

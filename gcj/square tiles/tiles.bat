@@ -1,0 +1,1 @@
+tiles.exe <in.txt> out.txt

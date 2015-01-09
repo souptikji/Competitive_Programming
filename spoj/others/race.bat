@@ -1,0 +1,1 @@
+race.exe <inrace.txt> outrace.txt

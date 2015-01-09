@@ -1,0 +1,1 @@
+1004.exe <in.txt> out.txt

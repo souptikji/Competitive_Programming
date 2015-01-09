@@ -1,0 +1,1 @@
+p2.exe <in.txt> out.txt

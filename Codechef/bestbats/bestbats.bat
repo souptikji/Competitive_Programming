@@ -1,0 +1,1 @@
+bestbats.exe <in.txt> out.txt

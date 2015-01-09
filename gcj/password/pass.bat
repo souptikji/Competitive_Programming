@@ -1,0 +1,1 @@
+pass.exe<in.txt> out.txt
